@@ -1,5 +1,5 @@
 # User Summary 🧠📲
-Apple Intelligenceを　　　　　活用した、ユーザーの今の情報を要約するショートカットです。✨📝<br>
+Apple Intelligenceを活用した、ユーザーの今の情報を要約するショートカットです。✨📝<br>
 ![title.png](image/title.png)
 
 ## 対応機種 📱💻
