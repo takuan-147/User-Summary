@@ -34,4 +34,5 @@ Apple Intelligence を使えない iPhone 14 Pro や iPhone 15 などのデバ�
 3. 返ってきた要約を通知・表示・読み上げ
 
 参考図:
-![nonAI.jpg](image/nonAI.jpg)
+
+<img src="image/nonAI.jpg" width="300">
